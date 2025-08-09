@@ -1,6 +1,3 @@
-
-
-
 // Fungsi utama ketika form disubmit
 document.getElementById('discountForm').addEventListener('submit', function(e) {
     e.preventDefault();
